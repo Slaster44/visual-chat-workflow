@@ -1,0 +1,5 @@
+{
+  "name": "visual-chat-workflow",
+  "owner": { "name": "slaster44" },
+  "plugins": [{ "name": "chat-flow", "source": "./" }]
+}

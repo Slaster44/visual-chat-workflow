@@ -1,0 +1,6 @@
+{
+  "name": "chat-flow",
+  "version": "0.1.0",
+  "description": "Live pane that draws the workflow of every Claude Code chat (plan steps, current action, results) as they run",
+  "types": "./types/index.d.ts"
+}
